@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Тагиров Ислам](https://up.htmlacademy.ru/htmlcss/26/user/1178595).
-* Наставник: `Неизвестно`.
+* Наставник: [Михон Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
